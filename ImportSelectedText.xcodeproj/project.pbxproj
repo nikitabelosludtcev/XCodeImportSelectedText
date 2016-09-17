@@ -452,6 +452,7 @@
 				84EAD61B1D8D88EB00B013E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84EAD6311D8D890700B013E3 /* Build configuration list for PBXNativeTarget "ImportSelectedTextExtension" */ = {
 			isa = XCConfigurationList;
@@ -460,6 +461,7 @@
 				84EAD6331D8D890700B013E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
